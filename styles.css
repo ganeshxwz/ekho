@@ -264,7 +264,7 @@ nav a:hover, nav a.active {
 }
 
 .price {
-    color: var(--text-color);
+    color: var(--light-text);
     font-size: 1.1rem;
     font-weight: bold;
     text-align: center;
